@@ -473,7 +473,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pepuinoSplit48.kicad_pro",
+    "filename": "pepuinoSplit44.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -648,8 +648,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "pepuinoSplit48.kicad_sch",
-        "name": "pepuinoSplit48",
+        "filename": "pepuinoSplit44.kicad_sch",
+        "name": "pepuinoSplit44",
         "uuid": "90eb6ed3-e2f3-4939-a227-75e8b67f05d0"
       }
     ],
