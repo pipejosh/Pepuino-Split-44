@@ -22,5 +22,34 @@ This is a custom wireless keyboard inpired in the corne and sofle layout so my w
 
 ## BOM
 
-Components ListNamePurposeQuantityTotal Cost (USD)DistributorLinkm2 5mm standoffAssembly50$2.21AliExpressLinkm2 2mm screwAssembly50$1.79AliExpressLinkTHT 4.7K resistorPull-up resistor20$1.77AliExpressLink0805 2M ResistorVoltage divider100$1.55AliExpressLink0805 820K ResistorVoltage divider100$1.79AliExpressLinkBattery 3.7V 110mAhKeyboard power2$8.87AliExpressLinkMSK-12D19Slide switch20$2.05AliExpressLinkSwitchesBao Bao Dragon45$10.95AliExpressLinkReset ButtonReset button10$2.70AliExpressLinkSK6812 MINI-E RGBRGB Lighting50$3.86AliExpressLink1N4148W T4 SOD-123Diodes100$3.18AliExpressLinkHotswap socketsEasy replace switches50$10.13AliExpressLinkOLED 0.91"Display2$5.52AliExpressLinkSuper mini NRF52840Microcontroller2$5.30AliExpressLinkComponents Subtotal**$61.67**PCB ManufacturingNamePurposeQuantityManufacturingShippingTotal Cost (USD)DistributorPCBThe main circuit board5$20.00$13.26**$33.26**JLCPCBGrand Total Project Cost: $94.93
+### Components List
 
+| Name | Purpose | Quantity | Total Cost (USD) | Distributor | Link |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| **m2 5mm standoff** | Assembly | 50 | $2.21 | AliExpress | [Link](https://www.aliexpress.com/item/32975966103.html) |
+| **m2 2mm screw** | Assembly | 50 | $1.79 | AliExpress | [Link](https://www.aliexpress.com/item/1005005070119421.html) |
+| **THT 4.7K resistor** | Pull-up resistor | 20 | $1.77 | AliExpress | [Link](https://www.aliexpress.com/item/1005006704431738.html) |
+| **0805 2M Resistor** | Voltage divider | 100 | $1.55 | AliExpress | [Link](https://www.aliexpress.com/item/1005004145810949.html) |
+| **0805 820K Resistor** | Voltage divider | 100 | $1.79 | AliExpress | [Link](https://www.aliexpress.com/item/1005004145810949.html) |
+| **Battery 3.7V 110mAh** | Keyboard power | 2 | $8.87 | AliExpress | [Link](https://www.google.com/search?q=https://www.aliexpress.com/item/1005011794722407.html) |
+| **MSK-12D19** | Slide switch | 20 | $2.05 | AliExpress | [Link](https://www.aliexpress.com/item/1005009651088272.html) |
+| **Switches** | Bao Bao Dragon | 45 | $10.95 | AliExpress | [Link](https://www.aliexpress.com/item/1005012005250603.html) |
+| **Reset Button** | Reset button | 10 | $2.70 | AliExpress | [Link](https://www.aliexpress.com/item/1005009739698023.html) |
+| **SK6812 MINI-E RGB** | RGB Lighting | 50 | $3.86 | AliExpress | [Link](https://www.google.com/search?q=https://www.aliexpress.com/item/1005005193716172.html) |
+| **1N4148W T4 SOD-123** | Diodes | 100 | $3.18 | AliExpress | [Link](https://www.aliexpress.com/item/1005007160563285.html) |
+| **Hotswap sockets** | Easy replace switches | 50 | $10.13 | AliExpress | [Link](https://www.google.com/search?q=https://www.aliexpress.com/item/1005009254258549.html) |
+| **OLED 0.91"** | Display | 2 | $5.52 | AliExpress | [Link](https://www.google.com/search?q=https://www.aliexpress.com/item/1005011783382489.html) |
+| **Super mini NRF52840** | Microcontroller | 2 | $5.30 | AliExpress | [Link](https://www.aliexpress.com/item/1005007078900079.html) |
+| **Components Subtotal** | | | **$61.67\*\* | | |
+
+-----
+
+### PCB Manufacturing
+
+| Name | Purpose | Quantity | Manufacturing | Shipping | Total Cost (USD) | Distributor |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- |
+| **PCB** | The main circuit board | 5 | $20.00 | $13.26 | **$33.26\*\* | JLCPCB |
+
+-----
+
+**Grand Total Project Estimate Cost: $94.93**
