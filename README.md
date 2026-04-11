@@ -40,7 +40,7 @@ This is a custom wireless keyboard inpired in the corne and sofle layout so my w
 | **Hotswap sockets** | Easy replace switches | 50 | $10.13 | AliExpress | [Link](https://www.google.com/search?q=https://www.aliexpress.com/item/1005009254258549.html) |
 | **OLED 0.91"** | Display | 2 | $5.52 | AliExpress | [Link](https://www.google.com/search?q=https://www.aliexpress.com/item/1005011783382489.html) |
 | **Super mini NRF52840** | Microcontroller | 2 | $5.30 | AliExpress | [Link](https://www.aliexpress.com/item/1005007078900079.html) |
-| **Components Subtotal** | | | **$61.67\*\* | | |
+| **Components Subtotal** | | | $61.67 | | |
 
 -----
 
@@ -48,7 +48,7 @@ This is a custom wireless keyboard inpired in the corne and sofle layout so my w
 
 | Name | Purpose | Quantity | Manufacturing | Shipping | Total Cost (USD) | Distributor |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| **PCB** | The main circuit board | 5 | $20.00 | $13.26 | **$33.26\*\* | JLCPCB |
+| **PCB** | The main circuit board | 5 | $20.00 | $13.26 | $33.26 | JLCPCB |
 
 -----
 
