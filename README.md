@@ -1,6 +1,8 @@
 ### Pepuino Split 44
 
-This is a custom wireless keyboard inpired in the corne and sofle layout so my wrists arent crippled anymore!.
+This is a custom wireless keyboard inpired in the corne and sofle layout so my wrists arent crippled anymore!
+A 44 keys keybaord wireless powered by a super mini (the cheapest BT microcontroller I could find) its wirelessssssss btw!
+Featuring really cool art and bluetooth connectivity!
 
 ### Images
 
