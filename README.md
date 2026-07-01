@@ -4,6 +4,10 @@ This is a custom wireless keyboard inpired in the corne and sofle layout so my w
 
 ### Images
 
+## IRL BUILD!
+
+![Render](IMG/Pepuino_Split_44.jpeg)
+
 ## Render
 
 ![Render](IMG/render.png)
